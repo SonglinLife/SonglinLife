@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WusonglinLife, a master student studying at tongji University, marjoring in Computer Science and Technology.
+- 👋 Hi, I’m @SonglinLife, a master student studying at tongji University, marjoring in Computer Science and Technology.
 - 👀 I’m interested in social network and Graph Neural Network.
 - 📫 [email]: wusonglin@tongji.edu.cn 
 
