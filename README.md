@@ -3,7 +3,7 @@
 - 📫 [email]: wusonglin@tongji.edu.cn 
 
 
-[![songlin's github stats](https://github-readme-stats.vercel.app/api?username=songlinlife?theme=tokyonight)](https://github.com/songlinlife/github-readme-stats)
+[![songlin's github stats](https://github-readme-stats.vercel.app/api?username=songlinlife)](https://github.com/songlinlife/github-readme-stats)
 
 <!---
 WusonglinLife/WusonglinLife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
