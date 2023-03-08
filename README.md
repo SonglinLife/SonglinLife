@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SonglinLife, a master student studying at tongji University, majoring in Computer Science and Technology.
-- 👀 I’m interested in social network and Graph Neural Network.
+- 👀 I’m interested in ANNS.
 - 📫 [email]: wusonglin@tongji.edu.cn 
 
 
